@@ -1,0 +1,2 @@
+C:\dev\Spark\SparkEngine\vendor\imgui\bin\Debug-windows-x86_64\imgui\imgui.lib.lastcodeanalysissucceeded
+C:\dev\Spark\SparkEngine\vendor\imgui\bin-int\Debug-windows-x86_64\imgui\NativeCodeAnalysis.read.1.tlog
